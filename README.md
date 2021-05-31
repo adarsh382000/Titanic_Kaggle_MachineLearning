@@ -12,8 +12,8 @@ It contains a stacked Ensemble of:
 7. MultiLayer Perceptron Classifier
 8. Gaussian Naive Bayes Classifier
 
-The final evalutation model fo stack is Logistic Regression.
+The final evalutation model of stack is Logistic Regression.
 
-Basic Feature Eingineering
+Basic Feature Engineering
 
 Gives Cross-Validation Score of 83% on training set, 80% on validation set and 77.8% on test set.
