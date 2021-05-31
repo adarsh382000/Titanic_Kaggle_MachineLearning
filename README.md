@@ -12,8 +12,10 @@ It contains a stacked Ensemble of:
 7. MultiLayer Perceptron Classifier
 8. Gaussian Naive Bayes Classifier
 
+All Models are Hyperparameter tuned using Optuna Library
+
 The final evalutation model of stack is Logistic Regression.
 
 Basic Feature Engineering
 
-Gives Cross-Validation Score of 83% on training set, 80% on validation set and 77.8% on test set.
+Gives Cross-Validation Score of 83% on training set, 82.5% on validation set and 80.5% on test set.
