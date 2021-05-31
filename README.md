@@ -14,7 +14,7 @@ It contains a stacked Ensemble of:
 
 All Models are Hyperparameter tuned using Optuna Library
 
-The final evalutation model of stack is Logistic Regression.
+The final evaluation model of stack is Logistic Regression.
 
 Basic Feature Engineering
 
